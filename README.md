@@ -11,7 +11,7 @@ A clean-architecture, production-ready RESTful web service engineered to aggrega
 * **Robust Error Handling Interceptors:** Implemented precise HTTP exception boundaries (`HTTPException`) to capture duplicate keys and missing dataset entities, maintaining system uptime under invalid calls.
 
 ## 🛠️ Technology Stack & Concepts
-* **Framework:** FastAPI (Python 3.10+)
+* **Framework:** FastAPI (Python 3.14)
 * **Data Validation & Parsing Layer:** Pydantic v2
 * **Server Gateway Utility:** Uvicorn ASGI Web Server Engine
 * **API Standardization Architecture:** OpenAPI / Swagger UI Specification
